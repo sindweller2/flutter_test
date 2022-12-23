@@ -1,3 +1,3 @@
 # Flutter Test
 
-A click counter using dialog app using Flutter 3.3.10.
+A click counter app using dialog using Flutter 3.3.10
